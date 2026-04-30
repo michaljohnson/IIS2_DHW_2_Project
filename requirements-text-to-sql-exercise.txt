@@ -1,0 +1,10 @@
+# Text-to-SQL exercise (Ollama + LangChain; SQLite Chinook)
+sqlalchemy>=2
+langchain>=0.3
+langchain-core
+langchain-community
+langchain-ollama
+langchain-experimental
+python-dotenv
+# optional API models
+langchain-openai
